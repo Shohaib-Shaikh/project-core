@@ -1,0 +1,9 @@
+package com.example.demo.utility;
+
+public class ConstantUrlHelper {
+
+    public static final String USER_URL = "/user";
+    public static final String PRODUCT_URL = "/product";
+    public static final String MESSAGE_URL = "/message";
+    public static final String USER_MESSAGE_URL = "/user/message";
+}
