@@ -43,6 +43,7 @@
 	</dependencyManagement>
 
 	<build>
+		<finalName>project-core</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
